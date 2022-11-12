@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5361/Week2/Assignment4_VHDLALU
+Eaac2m2h1_tb
+Z1 w1667338229
+Z2 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z3 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z7 8D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1_tb.vhdp
+Z8 FD:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1_tb.vhdp
+l0
+L50 1
+V9X0gL256IV9mJj?maj9<V2
+!s100 [BEDd>9OXS_zAek6EKD>l1
+Z9 OV;C;2020.1;71
+32
+Z10 !s110 1668211581
+!i10b 1
+Z11 !s108 1668211581.000000
+Z12 !s90 -reportprogress|300|-work|work|D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1_tb.vhdp|
+!s107 D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1_tb.vhdp|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 aac2m2h1_tb 0 22 9X0gL256IV9mJj?maj9<V2
+!i122 1
+l132
+L58 197
+VP<AGK64_C7mKH^JEjiASF2
+!s100 9N>2QDJ3@bO[9ZjE@I8YB2
+R9
+!i119 1
+32
+R10
+!i10b 1
+R11
+R12
+Z15 !s107 D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1_tb.vhdp|
+!i113 1
+R13
+R14
+Ealu
+Z16 w1668211550
+Z17 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z18 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+R6
+!i122 0
+R0
+Z19 8D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1.vhd
+Z20 FD:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1.vhd
+l0
+L8 1
+V_>Z;iG1C<V8oB1L8jSbCA2
+!s100 oP391UjbI>eEDG79Z00i91
+R9
+31
+Z21 !s110 1668211571
+!i10b 1
+Z22 !s108 1668211571.000000
+Z23 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1.vhd|
+Z24 !s107 D:/MSEE/5361/Week2/Assignment4_VHDLALU/AAC2M2H1.vhd|
+!i113 1
+Z25 o-93 -work work
+R14
+Aalu_arch
+R17
+R18
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 _>Z;iG1C<V8oB1L8jSbCA2
+!i122 0
+l15
+L14 17
+VkfCok^mC=?aNNc[[EW3f>0
+!s100 S9_o=QA_ZhbA8;75LjmbO2
+R9
+31
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R25
+R14

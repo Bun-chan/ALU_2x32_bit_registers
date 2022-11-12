@@ -13,10 +13,17 @@ END ALU;
 
 architecture alu_arch of ALU is 
 begin
-	opcode_process : process (Op_code)
+	opcode_process : process (Op_code, A, B)
 		begin
 			case (Op_code) is
 				when "000" => Y <= A;
+				when "001" => Y <= A + B;
+				when "010" => Y <= A - B;
+				when "011" => Y <= A and B;
+				when "100" => Y <= A or B;
+				when "101" => Y <= A + '1';
+				when "110" => Y <= A - '1';
+				when "111" => Y <= B;
 				when others => Y <= A; --I do not know what this should be set to.
 			end case;	
 		end process;

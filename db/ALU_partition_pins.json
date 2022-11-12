@@ -132,7 +132,27 @@
 					"strict" : false
 				},
 				{
+					"name" : "Op_code[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Op_code[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Op_code[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
 					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
 					"strict" : false
 				},
 				{
@@ -140,7 +160,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
 					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
 					"strict" : false
 				},
 				{
@@ -148,7 +176,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
 					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "B[5]",
 					"strict" : false
 				},
 				{
@@ -156,7 +192,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[6]",
+					"strict" : false
+				},
+				{
 					"name" : "A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "B[7]",
 					"strict" : false
 				},
 				{
@@ -164,7 +208,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[8]",
+					"strict" : false
+				},
+				{
 					"name" : "A[8]",
+					"strict" : false
+				},
+				{
+					"name" : "B[9]",
 					"strict" : false
 				},
 				{
@@ -172,7 +224,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[10]",
+					"strict" : false
+				},
+				{
 					"name" : "A[10]",
+					"strict" : false
+				},
+				{
+					"name" : "B[11]",
 					"strict" : false
 				},
 				{
@@ -180,7 +240,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[12]",
+					"strict" : false
+				},
+				{
 					"name" : "A[12]",
+					"strict" : false
+				},
+				{
+					"name" : "B[13]",
 					"strict" : false
 				},
 				{
@@ -188,7 +256,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[14]",
+					"strict" : false
+				},
+				{
 					"name" : "A[14]",
+					"strict" : false
+				},
+				{
+					"name" : "B[15]",
 					"strict" : false
 				},
 				{
@@ -196,7 +272,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[16]",
+					"strict" : false
+				},
+				{
 					"name" : "A[16]",
+					"strict" : false
+				},
+				{
+					"name" : "B[17]",
 					"strict" : false
 				},
 				{
@@ -204,7 +288,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[18]",
+					"strict" : false
+				},
+				{
 					"name" : "A[18]",
+					"strict" : false
+				},
+				{
+					"name" : "B[19]",
 					"strict" : false
 				},
 				{
@@ -212,7 +304,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[20]",
+					"strict" : false
+				},
+				{
 					"name" : "A[20]",
+					"strict" : false
+				},
+				{
+					"name" : "B[21]",
 					"strict" : false
 				},
 				{
@@ -220,7 +320,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[22]",
+					"strict" : false
+				},
+				{
 					"name" : "A[22]",
+					"strict" : false
+				},
+				{
+					"name" : "B[23]",
 					"strict" : false
 				},
 				{
@@ -228,7 +336,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[24]",
+					"strict" : false
+				},
+				{
 					"name" : "A[24]",
+					"strict" : false
+				},
+				{
+					"name" : "B[25]",
 					"strict" : false
 				},
 				{
@@ -236,7 +352,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[26]",
+					"strict" : false
+				},
+				{
 					"name" : "A[26]",
+					"strict" : false
+				},
+				{
+					"name" : "B[27]",
 					"strict" : false
 				},
 				{
@@ -244,7 +368,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[28]",
+					"strict" : false
+				},
+				{
 					"name" : "A[28]",
+					"strict" : false
+				},
+				{
+					"name" : "B[29]",
 					"strict" : false
 				},
 				{
@@ -252,7 +384,15 @@
 					"strict" : false
 				},
 				{
+					"name" : "B[30]",
+					"strict" : false
+				},
+				{
 					"name" : "A[30]",
+					"strict" : false
+				},
+				{
+					"name" : "B[31]",
 					"strict" : false
 				},
 				{
